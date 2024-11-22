@@ -13,7 +13,7 @@ const Extantion = () => {
           Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes.
           </p>
           <button className="mt-6 lg:mt-8 bg-[#4F9CF9] rounded-md px-6 py-3 text-white text-sm flex items-center justify-center mx-auto lg:ml-0">
-            Let's Go <FaArrowRight className="ml-2" />
+            Let&apos;s Go <FaArrowRight className="ml-2" />
           </button>
         </div>
         <div className="w-full lg:w-[50%] h-[300px] lg:h-[600px] flex justify-center items-center mt-6 lg:mt-0">

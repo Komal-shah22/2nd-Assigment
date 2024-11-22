@@ -104,7 +104,7 @@ const TryItToday = () => {
         Get started for free. Add your whole team as your needs grow.
       </p>
       <button className="mt-6 lg:mt-8 bg-[#4F9CF9] rounded-md px-6 py-4 text-white text-sm flex items-center justify-center mx-auto lg:ml-0">
-            Let's Go <FaArrowRight className="ml-2" />
+            Let&apos;s Go <FaArrowRight className="ml-2" />
           </button>
     </div>
   );

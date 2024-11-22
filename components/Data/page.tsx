@@ -12,7 +12,7 @@ const Data = () => {
           100% your data
           </h1>
           <p className="mt-4 lg:mt-8">
-          The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.
+          The app is open source and your notes are saved to an open format, so youl&apos;l always have access to them. Uses End-To-End Encryption E2EE to secure your notes and ensure no-one but yourself can access them.
           </p>
           <button className="mt-6 lg:mt-8 bg-[#4F9CF9] rounded-md px-6 py-4 text-white text-sm flex items-center justify-center mx-auto lg:ml-0">
             Try Taskey Free
